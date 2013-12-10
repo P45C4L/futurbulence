@@ -1,5 +1,5 @@
 # The Futurbulence Design Manifesto
-Version 1.4 / Last changes: 03.12.2013
+Version 1.5 / Last changes: 03.12.2013
 
 ## Times have changed
 Traditionally design was about making products, services and visuals while maximizing the Benefit/Cost ratio. Design was also the key to a strong aesthetic. In fact, design was a thinking and visual process, generally applied as a final step of the production process, providing products with a certain level of distinctiveness and identity. During the last century, design had to answer the needs of a centralized management, followed command and control business models and ended up heavily dependent on aggressive copyright protection strategies. In this context design was usually locked within silos and remained an entirely exclusive responsibility of R&D departments, while visual design was in most cases outsourced to specialized graphic design studios. Stuck between marketing and sales, designers remained inside their comfort zone of specifications, planning, blueprints and documentation. Serving a booming consumer economy, this practice worked very well in predictable environments and was particularly efficient at serving standard and average consumers.

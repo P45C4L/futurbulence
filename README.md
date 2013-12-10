@@ -1,7 +1,7 @@
 futurbulence
 ============
 
-The Futurbulence Manifesto
+The Futurbulence Design Manifesto
 
 This is an ongoing project aiming at reframing the role of design and designers within organizations in order to address a more unstable future. As we're shifting form old and traditional models of design to a new paradigm of purpose and meaning, this manifesto tries to define the core principles behind the new required mindset of 21st century design.
 

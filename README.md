@@ -12,3 +12,7 @@ Started on the 20th of May 2013, this document is mainly based on my experience 
 A copy of this work can be viewed <a href="http://binarycargo.net/manifesto/">on Binary Cargo</a>
 
 Pascal
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/P45C4L/futurbulence/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+

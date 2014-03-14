@@ -13,6 +13,3 @@ A copy of this work can be viewed <a href="http://binarycargo.net/manifesto/">on
 
 Pascal
 
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/P45C4L/futurbulence/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
